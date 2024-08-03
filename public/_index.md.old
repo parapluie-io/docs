@@ -1,0 +1,72 @@
+---
+title: Easy API Gateway
+layout: hextra-home
+# iframe: "https://example.com/"
+cascade:
+  type: docs
+---
+
+<div class="hx-mt-6"></div>
+
+
+
+<!-- 
+{{< icon "github" >}}&nbsp;[imfing/hextra-starter-template](https://github.com/imfing/hextra-starter-template)
+
+You could quickly get started by using the above template repository. -->
+
+<img src="https://docs.github.com/assets/cb-77734/mw-1440/images/help/repository/use-this-template-button.webp" alt="Girl in a jacket" width="500" height="600">
+
+
+<!-- If you are intersted by using Easy API Gataway you can Sign Up to the waiting list :
+
+[SignUp](https://tally.so/r/wg4YpP) 
+
+
+
+[Read the docs](/docs) -->
+
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Fast & Easy"
+    subtitle="Easy API Gateway has been built with simplicity of usage in mind. Your APIs will be protected in minutes, not hours."
+    
+    
+    
+  >}}
+  {{< hextra/feature-card
+    title="Perfect for startups"
+    subtitle="You are building a POC, a MVP or even a small product ? Easy API Gateway has been created for you."
+    
+  >}}
+   {{< hextra/feature-card
+    title="Full Text Search"
+    subtitle="Built-in full text search with FlexSearch, no extra setup required."
+    
+  >}}
+  <!--
+  {{< hextra/feature-card
+    title="Lightweight as a Feather"
+    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
+  >}}
+  {{< hextra/feature-card
+    title="Responsive with Dark Mode Included"
+    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
+  >}}
+  {{< hextra/feature-card
+    title="Build and Host for Free"
+    subtitle="Build with GitHub Actions, and host for free on GitHub Pages. Alternatively it can be hosted on any static hosting service."
+  >}}
+  {{< hextra/feature-card
+    title="Multi-Language Made Easy"
+    subtitle="Create multi-language pages by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
+  >}}
+  {{< hextra/feature-card
+    title="And Much More..."
+    icon="sparkles"
+    subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
+  >}} -->
+{{< /hextra/feature-grid >}}
+
+
