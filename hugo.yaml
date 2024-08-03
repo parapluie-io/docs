@@ -1,4 +1,4 @@
-baseURL: https://william-lp.github.io/parapluie/
+baseURL: https://parapluie-io.github.io/docs/
 title: Parapluie
 
 menu:
@@ -39,22 +39,22 @@ params:
     logo:
       path: images/emojione-umbrella.svg
       dark: images/emojione-umbrella.svg
-      link: /parapluie
+      link: /docs
       # width: 40
       # height: 20
   comments:
     enable: true
     type: giscus
     giscus:
-      repo: William-LP/parapluie
-      repoId: R_kgDOMUQfpA
+      repo: parapluie-io/docs
+      repoId: R_kgDOMeo5pw
       category: General
-      categoryId: DIC_kwDOMUQfpM4CgyxH
+      categoryId: DIC_kwDOMeo5p84ChXxJ
       
 
   editURL:
     enable: true
-    base: "https://github.com/William-LP/parapluie/edit/main/docs/content"      
+    base: "https://github.com/parapluie-io/docs/edit/main/content"      
 
 markup:
   # allow raw html
