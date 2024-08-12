@@ -38,7 +38,7 @@ For sake of documentation's clarity, parapluie's root token has been exported as
 
   The following fields will be computed and returned :
 
-  ```json
+  ```json {filename="output"}
 {
   "id":"xxx",
   "name":"api key for consumer XYZ",
@@ -65,7 +65,7 @@ For sake of documentation's clarity, parapluie's root token has been exported as
 
 This will list the API keys with theirs `id`, `name`, `createdAt` and `lastUpdated` :
 
-  ```json
+  ```json {filename="output"}
 {
   "apiKeys" : [
       {
@@ -101,7 +101,7 @@ This will list the API keys with theirs `id`, `name`, `createdAt` and `lastUpdat
 
     The following data should be returned :
 
-  ```json
+  ```json {filename="output"}
 {
   "consumerApiKeyId":"xxx",
   "name":"Consumer API key",
@@ -168,7 +168,7 @@ This will list the API keys with theirs `id`, `name`, `createdAt` and `lastUpdat
 
 A confirmation message will be returned : 
 
-  ```json
+  ```json {filename="output"}
 {
 "consumerApiKeyId":"xxx",
 "message":"Consumer API key has been successfully deleted",

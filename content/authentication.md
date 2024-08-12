@@ -2,7 +2,7 @@
 title: Authentication
 weight: 2
 breadcrumbs: false
-draft: false
+draft: true
 ---
 
 Parapluie uses two special token called the **Parapluie Root Token** and the **Consumer API Key**.
